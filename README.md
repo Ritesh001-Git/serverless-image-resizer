@@ -30,7 +30,7 @@
 ---
 
 ## 🎥 Presentation  
-[📥 **Download the presentation**](./assets/presentation.pdf)
+[📥 **Download the presentation**](./assets/Presentation.pdf)
 
 ---
 
